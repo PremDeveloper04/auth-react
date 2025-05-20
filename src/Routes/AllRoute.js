@@ -8,6 +8,7 @@ import Profile from '../Auth/Profile'
 import ProtectRoute from './ProtectRoute'
 import OpenRoute from './OpenRoute'
 
+
 const AllRoute = () => {
 
     return (
